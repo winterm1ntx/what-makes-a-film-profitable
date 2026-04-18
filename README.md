@@ -13,7 +13,7 @@ The analysis covers the full data analytics workflow — from data cleaning and 
  5. Is there a relationship between budget and ROI?
  6. Are ROI differences across genres statistically significant?
 
-📂 Dataset
+# 📂 Dataset
  • Source: TMDB Movies Dataset (Kaggle)
  • Period: 2000–2023
  • Raw records: ~1 million entries
@@ -24,13 +24,13 @@ Cleaning criteria:
  • Removed duplicates and entries where budget equals revenue
  • Manual validation of extreme outliers
 
-🔧 Tools & Tech Stack
+# 🔧 Tools & Tech Stack
   • Data Processing: Python (pandas)
   • Visualization: matplotlib, seaborn, Tableau
   • Statistical Testing: scipy (Kruskal-Wallis, Spearman, Epsilon Squared)
   • Notebook: Jupyter Notebook
 
-📊 Key Findings
+# 📊 Key Findings
 Production Company — Significant impact, strong effect size (ε² = 0.226)
 Genre — Statistically significant but very small effect (ε² ≈ 0.01)
 Budget — Weak positive correlation, not a reliable predictor
@@ -40,6 +40,6 @@ Highlights:
  • Documentary and TV Movie genres show the highest median ROI
  • The 2020 ROI drop correlates with COVID-19’s impact on the film industry​​​​​​
  
- 💡 Recommendations
+# 💡 Recommendations
 Focus on production company track record rather than genre or budget when evaluating film investments. Companies like Blumhouse Productions demonstrate that a disciplined low-budget model can consistently deliver high ROI. Budget and genre alone are insufficient as investment criteria — qualitative factors like script quality and casting still matter.​​​​​​​​​​​​​​​​​​​​​​​​​​
 
