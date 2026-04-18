@@ -38,5 +38,8 @@ Budget — Weak positive correlation, not a reliable predictor
 Highlights:
  • Blumhouse Productions leads all production companies in median ROI — their low-budget model is highly efficient
  • Documentary and TV Movie genres show the highest median ROI
- • The 2020 ROI drop correlates with COVID-19’s impact on the film industry​​​​​​​​​​​​​​​​
+ • The 2020 ROI drop correlates with COVID-19’s impact on the film industry​​​​​​
+ 
+ 💡 Recommendations
+Focus on production company track record rather than genre or budget when evaluating film investments. Companies like Blumhouse Productions demonstrate that a disciplined low-budget model can consistently deliver high ROI. Budget and genre alone are insufficient as investment criteria — qualitative factors like script quality and casting still matter.​​​​​​​​​​​​​​​​​​​​​​​​​​
 
