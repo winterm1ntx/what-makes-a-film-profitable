@@ -15,30 +15,45 @@ The analysis covers the full data analytics workflow — from data cleaning and 
 
 # 📂 Dataset
  • Source: TMDB Movies Dataset (Kaggle)
+ 
  • Period: 2000–2023
+ 
  • Raw records: ~1 million entries
+ 
  • After cleaning: ~6,000 films
+
 Cleaning criteria:
+ 
  • Budget and revenue minimum $30,000 USD
+ 
  • Runtime between 60–300 minutes
+ 
  • Removed duplicates and entries where budget equals revenue
+ 
  • Manual validation of extreme outliers
 
 # 🔧 Tools & Tech Stack
   • Data Processing: Python (pandas)
   
   • Visualization: matplotlib, seaborn, Tableau
+  
   • Statistical Testing: scipy (Kruskal-Wallis, Spearman, Epsilon Squared)
+  
   • Notebook: Jupyter Notebook
 
 # 📊 Key Findings
 Production Company — Significant impact, strong effect size (ε² = 0.226)
+
 Genre — Statistically significant but very small effect (ε² ≈ 0.01)
+
 Budget — Weak positive correlation, not a reliable predictor
 
 Highlights:
+ 
  • Blumhouse Productions leads all production companies in median ROI — their low-budget model is highly efficient
+ 
  • Documentary and TV Movie genres show the highest median ROI
+ 
  • The 2020 ROI drop correlates with COVID-19’s impact on the film industry​​​​​​
  
 # 💡 Recommendations
