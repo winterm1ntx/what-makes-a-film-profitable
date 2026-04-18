@@ -1,11 +1,11 @@
-🎬 What Makes a Film Profitable?
+# 🎬 What Makes a Film Profitable?
 End-to-end analysis of film ROI using TMDB dataset (2000–2023) to help investors identify key factors that drive film profitability
 
-📌 Overview
+# 📌 Overview
 This project analyzes the TMDB Movies dataset (2000–2023) to answer a core investment question: what factors most influence a film’s Return on Investment (ROI)?
 The analysis covers the full data analytics workflow — from data cleaning and exploratory analysis to statistical testing and interactive Tableau dashboards.
 
-❓ Research Questions
+# ❓ Research Questions
  1. How has film ROI trended from 2000 to 2023?
  2. What is the overall distribution of film ROI?
  3. Which production companies consistently deliver high ROI?
