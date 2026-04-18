@@ -5,6 +5,9 @@ End-to-end analysis of film ROI using TMDB dataset (2000–2023) to help investo
 This project analyzes the TMDB Movies dataset (2000–2023) to answer a core investment question: what factors most influence a film’s Return on Investment (ROI)?
 The analysis covers the full data analytics workflow — from data cleaning and exploratory analysis to statistical testing and interactive Tableau dashboards.
 
+## 📊 Dashboard Preview
+![Dashboard](Dashboard_1_1.png)
+
 # ❓ Research Questions
  1. How has film ROI trended from 2000 to 2023?
  2. What is the overall distribution of film ROI?
